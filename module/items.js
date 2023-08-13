@@ -5,6 +5,8 @@ const itemSchema = mongoose.Schema({
     number: {
       type: String
     },
+
+    
     comment: { type: String },
   });
 
